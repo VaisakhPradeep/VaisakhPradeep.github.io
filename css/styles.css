@@ -1,3 +1,16 @@
-h1{
-	color: green;
+.hero-wrapper{
+	display: flex;	
+}
+
+.hero-wrapper .about-content{
+	width: 60%;
+	text-align: right
+}
+
+.hero-wrapper .my-photo{
+	width: 40%;
+}
+
+.hero-wrapper .my-photo img{
+	
 }
