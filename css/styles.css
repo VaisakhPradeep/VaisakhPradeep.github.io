@@ -1,3 +1,7 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
 .hero-wrapper{
 	display: flex;
 	padding-top: 40px	
@@ -10,17 +14,23 @@
 }
 
 .hero-wrapper .about-content h1{
-	font-size: 	5rem;
-	margin-top: 30px;
+	font-size: 	4.5rem;
+	margin-top: 10px;
+	font-weight: 600;
+	color: #303030;
 }
 
 .hero-wrapper .about-content h4{
-	
+	font-size: 1.4em;
+	font-weight: 600;
+	margin: 20px;
+	color: #303030;
 }
-
 
 .hero-wrapper .my-photo{
 	width: 40%;
+	margin-top: 1%;
+	margin-left: 2%;
 }
 
 .hero-wrapper .my-photo img{
