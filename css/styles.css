@@ -121,3 +121,15 @@ body{
 .section4{
 	background-color: #6EFFAD;
 }
+
+@media(max-width: 400px){
+	.hero-wrapper{
+		display: block;
+	}
+
+	.hero-wrapper .about-content{
+		width: 80%;
+		text-align: center;
+		padding-right: 50px;
+	}
+}
