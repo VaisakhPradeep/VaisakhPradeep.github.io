@@ -1,16 +1,28 @@
 .hero-wrapper{
-	display: flex;	
+	display: flex;
+	padding-top: 40px	
 }
 
 .hero-wrapper .about-content{
 	width: 60%;
-	text-align: right
+	text-align: right;
+	padding-right: 50px;
 }
+
+.hero-wrapper .about-content h1{
+	font-size: 	5rem;
+	margin-top: 30px;
+}
+
+.hero-wrapper .about-content h4{
+	
+}
+
 
 .hero-wrapper .my-photo{
 	width: 40%;
 }
 
 .hero-wrapper .my-photo img{
-	
+
 }
